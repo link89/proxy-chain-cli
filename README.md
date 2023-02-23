@@ -13,7 +13,7 @@ proxy-chain-cli --help
 ### Start a Chain Server
 
 ```bash
-proxy-chain-cli chain_server start --help
+proxy-chain-cli chain-server start --help
 ```
 
 For example, 
